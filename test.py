@@ -1,3 +1,3 @@
 print ("Hello World")
-print ("Scond Line")
-
+print ("Second Line")
+print ("Third Line")
